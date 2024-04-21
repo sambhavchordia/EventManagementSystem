@@ -1,4 +1,4 @@
-# ProgrammingParadignProject
+# Event Management System
 Introduction to Event Management System
 Event Management System (EMS) is a software application designed to streamline and simplify the process of planning, organizing, and managing events. Whether you're organizing workshops, meetings, conferences, or any other type of event, an efficient EMS can be a powerful tool to help you achieve your goals. This project aims to provide a fundamental Event Management System that enables users to create, manage, and display events.
 
